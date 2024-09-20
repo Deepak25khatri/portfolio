@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Requirement Classification",
+    "imageSrc": "projects/project.png",
+    "description": "Generated 18000+ Functional and Non-functional requirements using Generative AI. Use the different LLM for the verification on the basis of certain rules. Apply the Machine learning model for classification",
+    "skills": ["Python", "LLM", "Generative AI", "ML", "DL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Secret Chat App:",
+    "imageSrc": "projects/project.png",
+    "description": "Developedareal-timechatapplicationus- ing WebSocket and Socket.io, demonstrating strong system design skills in real-time data processing and event-driven architecture.",
+    "skills": ["MongoDB","Express","React.js","Node.js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Acceptance Level Test case Generation",
+    "imageSrc": "projects/project.png",
+    "description": "Classify the statements into conditional statements using deep learning model then created label dataset for that conditional statements and created cause-effect using software engineering rules. Then generated test-cases from that conditional statements",
+    "skills": ["Machine Learning", "NLP", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Monkey Detection System Using YOLOv7",
+    "imageSrc": "projects/project.png",
+    "description": "A Monkey Detection System using YOLOv7 uses object detection algorithms to identify and track monkeys in real-time video feeds accurately.",
+    "skills": [" Ultralytics", "Flask", "YOLOV7", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "RecShorts: Personalized shorts for smart readers",
+    "imageSrc": "projects/AskMe.png",
+    "description": "Fetch the news from RSS link of News site. Applied the content based recommendation using Tfdif on the keyphrases. Use the AWS for pipeling automation",
+    "skills": ["Python", "ML", "AWS", "Flask", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ChatBot: Langchain Multi-Function Bot",
+    "imageSrc": "projects/swimminh.png",
+    "description": "Created a multi-function chatbot using langchain framework. BasicChat bot, ChatBot with internet access, Text summarization and Document reader ChatBot. Deploy using streamlit",
+    "skills": ["Python", "LLM", "Git", "Streamlit"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
