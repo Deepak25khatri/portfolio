@@ -33,7 +33,7 @@
   },
   {
     "title": "RecShorts: Personalized shorts for smart readers",
-    "imageSrc": "projects/AskMe.png",
+    "imageSrc": "projects/project.png",
     "description": "Fetch the news from RSS link of News site. Applied the content based recommendation using Tfdif on the keyphrases. Use the AWS for pipeling automation",
     "skills": ["Python", "ML", "AWS", "Flask", "React"],
     "demo": "https://www.example.com",
@@ -41,7 +41,7 @@
   },
   {
     "title": "ChatBot: Langchain Multi-Function Bot",
-    "imageSrc": "projects/swimminh.png",
+    "imageSrc": "projects/project.png",
     "description": "Created a multi-function chatbot using langchain framework. BasicChat bot, ChatBot with internet access, Text summarization and Document reader ChatBot. Deploy using streamlit",
     "skills": ["Python", "LLM", "Git", "Streamlit"],
     "demo": "https://www.example.com",
